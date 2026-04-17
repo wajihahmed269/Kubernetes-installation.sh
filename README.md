@@ -47,7 +47,7 @@ sudo apt install git -y
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/k8s-installer.git
+git clone https://github.com/wajihahmed269/Kubernetes-installation.sh.git
 cd k8s-installer
 ```
 
